@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- edit
+- help
+- play
+  * work
+  * eat
+    - wat
+    - omg
